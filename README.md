@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Senior Software Developer @ Actano Solutions | Full Stack Engineer | IoT + Web Specialist</h3>
 
 <p align="center">
-  <a href="https://priyeshjaiswal.com" target="_blank"><strong>🌐 Visit My Website →</strong></a>
+  <a href="https://priyeshjaiswal.com"><strong>🌐 Visit My Website →</strong></a>
 </p>
 
 ---
@@ -10,10 +10,9 @@
 ### 💡 About Me
 
 - 👨‍💻 Senior Software Developer at **Actano Solutions Pvt Ltd**
-- 🌐 Creator of [priyeshjaiswal.com](https://priyeshjaiswal.com) – my portfolio, tech blog, and project space
-- 🧠 Building scalable systems, integrating **IoT**, real-time analytics, and elegant UIs
-- 🔧 Working with **Node.js**, **Next.js**, **Flutter**, **Supabase**, and **AWS**
-- 🧪 Focused on system design, performance tuning, and future-ready architecture
+- ⚙️ I blend backend engineering, frontend logic, and IoT-level thinking
+- 🛠️ Skilled in **Node.js**, **Next.js**, **Flutter**, **Supabase**, and **AWS**
+- 🔍 Strong believer in thoughtful system design and performance-first architecture
 
 ---
 
@@ -40,9 +39,9 @@
 
 ### 🚀 Featured Projects
 
-- **Engine Knock Detection System** – Real-time audio analysis using ML for dual-fuel engines  
-- **Nephroplus IoT Platform** – Dashboard + backend for monitoring dialysis and RO plants  
-- **Secure Chat App** – Real-time encrypted messaging with WebSocket and clean frontend logic  
+- **🔊 Knock Detection Engine** – Real-time audio signal analysis using ML for dual-fuel engines
+- **📡 Nephroplus IoT Dashboard** – Cloud-native dashboard for dialysis and RO machine telemetry
+- **💬 Secure Chat Platform** – Encrypted, real-time messaging with Socket.IO and Supabase
 
 ---
 
@@ -53,15 +52,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshjaiswal&theme=radical" />
 </p>
 
+> 🔐 _To include private repo work in stats:_  
+> Go to GitHub Settings → Public Profile → Check "Include private contributions on my profile"
+
 ---
 
 ### 📫 Connect With Me
 
 [![Website](https://img.shields.io/badge/-Website-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://priyeshjaiswal.com)  
+<!-- Replace the placeholders below when ready -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 💬 _"Legacy guides me, innovation excites me."_  
-Let’s build things worth remembering.
+Let’s build something memorable.
