@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Senior Software Developer @ Actano Solutions | Full Stack Engineer | IoT + Web Specialist</h3>
 
 <p align="center">
-  <a href="https://priyeshjaiswal.com"><strong>🌐 Visit My Website →</strong></a>
+  <a target="_blank href="https://priyeshjaiswal.com"><strong>🌐 Visit My Website →</strong></a>
 </p>
 
 ---
@@ -51,9 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=priyeshjaiswal&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshjaiswal&theme=radical" />
 </p>
-
-> 🔐 _To include private repo work in stats:_  
-> Go to GitHub Settings → Public Profile → Check "Include private contributions on my profile"
 
 ---
 
