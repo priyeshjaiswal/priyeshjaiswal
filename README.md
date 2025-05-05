@@ -1,15 +1,19 @@
 <h1 align="center">Hey, I'm Priyesh 👋</h1>
-<h3 align="center">🚀 Senior Software Developer @ Actano Solutions | Full Stack Engineer | Builder of Smart, Scalable Systems</h3>
+<h3 align="center">🚀 Senior Software Developer @ Actano Solutions | Full Stack Engineer | IoT + Web Specialist</h3>
+
+<p align="center">
+  <a href="https://priyeshjaiswal.com" target="_blank"><strong>🌐 Visit My Website →</strong></a>
+</p>
 
 ---
 
 ### 💡 About Me
 
-- 👨‍💻 Currently crafting impactful software solutions at **Actano Solutions Pvt Ltd**
-- 🧠 Designing full-stack architectures, integrating IoT, real-time analytics, and user-first interfaces
-- 🛠 Working with technologies like **Node.js**, **Next.js**, **Flutter**, and **Supabase**
-- 🔍 Focused on clean code, system design, and performance optimization
-- 🧪 Passionate about combining traditional engineering principles with modern software practices
+- 👨‍💻 Senior Software Developer at **Actano Solutions Pvt Ltd**
+- 🌐 Creator of [priyeshjaiswal.com](https://priyeshjaiswal.com) – my portfolio, tech blog, and project space
+- 🧠 Building scalable systems, integrating **IoT**, real-time analytics, and elegant UIs
+- 🔧 Working with **Node.js**, **Next.js**, **Flutter**, **Supabase**, and **AWS**
+- 🧪 Focused on system design, performance tuning, and future-ready architecture
 
 ---
 
@@ -34,25 +38,26 @@
 
 ---
 
-### 🚀 Notable Projects
+### 🚀 Featured Projects
 
-- **IoT-Integrated Engine Monitoring** – Real-time knock detection for dual-fuel engines  
-- **Nephroplus IoT Dashboard** – Full-stack platform for remote dialysis machine analytics  
-- **Smart Chat Systems** – Socket-based messaging with encrypted real-time features  
+- **Engine Knock Detection System** – Real-time audio analysis using ML for dual-fuel engines  
+- **Nephroplus IoT Platform** – Dashboard + backend for monitoring dialysis and RO plants  
+- **Secure Chat App** – Real-time encrypted messaging with WebSocket and clean frontend logic  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyeshyadav-tech&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshyadav-tech&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyeshjaiswal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyeshjaiswal&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
+[![Website](https://img.shields.io/badge/-Website-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://priyeshjaiswal.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
